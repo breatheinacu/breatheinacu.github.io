@@ -1,0 +1,32 @@
+div#footer {
+	width:960px;
+	clear:both;
+	position:relative;
+	color:#fff;
+	margin:5px auto;
+}
+#footer img {
+	margin:0 0 0 220px;
+}
+
+div#footer p {
+	float:right;
+	width:430px;
+	color:#666;
+	font-weight:bold;
+	margin:6px 0 0 0;
+}
+
+div#footer span {
+	font-weight:normal;
+}
+
+div#footer a {
+	color:#666;
+	text-transform:none;
+}
+
+div#footer a:hover {
+	color:#A2AECC;
+	cursor:pointer;
+}

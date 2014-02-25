@@ -1,0 +1,14 @@
+div#content {
+	width:630px;
+	float:right;
+	margin:30px 0 0 0;
+}
+
+div#content img {
+	margin:20px;
+	float:right;
+}
+
+div#content li {
+  margin:0 0 0 20px;
+}

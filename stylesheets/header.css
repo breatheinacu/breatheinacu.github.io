@@ -1,0 +1,24 @@
+div#header {
+	width:100%;
+	clear:both;
+	position:relative;
+}
+
+div#menu {
+	float:left;
+	text-align:right;
+	margin:300px 0 0 0;
+}
+div#menu ul {
+	list-style:none;
+}
+div#menu li {
+	margin:0 30px 0 0;
+}
+div#menu a {
+	color:#A2AECC;
+	text-transform:uppercase;
+}
+div#menu a:hover {
+	color:#FFF;
+}

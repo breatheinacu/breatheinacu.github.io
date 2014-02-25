@@ -1,0 +1,56 @@
+div#footer {
+	width:960px;
+	clear:both;
+	position:relative;
+	color:#fff;
+	margin:15px auto;
+	padding:0 0 20px 0;
+	overflow: auto;
+}
+#footer img {
+	/*margin:0 0 0 220px;*/
+}
+
+div#footer p {
+	float:right;
+	color:#666;
+	font-weight:bold;
+	margin:6px 0 0 0;
+}
+
+div#footer span {
+	font-weight:normal;
+	color:#666;
+}
+
+div#footer a {
+	color:#666;
+	text-transform:none;
+}
+
+div#footer a:hover {
+	color:#A2AECC;
+	cursor:pointer;
+}
+
+div#footer .logo {
+	float:left;
+	width:291px;
+	margin:0 0 0 195px;
+}
+
+div#footer .broadway {
+	float:left;
+	width:175px;
+	margin:0 0 0 20px;
+}
+
+div#footer .exhalespa {
+	float:left;
+	width:175px;
+	margin:0 0 0 20px;
+}
+
+div#footer .email {
+	margin: 0 0 0 17px;
+}

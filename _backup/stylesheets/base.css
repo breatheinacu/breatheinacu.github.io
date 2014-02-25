@@ -1,0 +1,45 @@
+/********* base.css ***********
+*******************************/
+
+/* RESET */
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input { margin: 0; padding: 0; }
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th { font-size: 1em; font-weight: normal; font-style: normal; }
+ul,ol { margin:1em; }
+fieldset,img { border: none; }
+caption,th { text-align: left; }
+table { border-collapse: collapse; border-spacing: 0; }
+.clear { clear: both;line-height: 1px;font-size: 1px;}
+.clearer { clear: both; display: block; margin: 0; padding: 0; height: 0; line-height: 1px; font-size: 1px; }
+.left{float:left;}
+.right{float:right;}
+.none{display:none;}
+
+/* TYPE */
+body { font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;background: #ddd9ce;color: #666;position:relative; padding:30px 0 0 0; }
+
+a {color:#877C72;text-transform:uppercase;text-decoration:none;cursor:hand;}
+a:hover {color:#FFF;}
+a:link, a:visited, a:active { text-decoration: none;}
+a, a:active, a:focus { outline-style: none; outline-width:0;}
+strong, b { font-weight: bold; }
+em, i { font-style: italic; }
+sup { padding-left: 1px; font-size: 10px !important; font-weight: normal !important; vertical-align: baseline; position: relative; bottom: 0.33em; color: #76797c; _position: static !important; }
+.margin-top {margin:30px 0 0 0;}
+
+p { margin-bottom: 18px; }
+h1 { font-weight: bold; font-size: 24px; line-height: 36px; margin-bottom: 18px; }
+h2 { font-weight: bold; font-size: 24px; line-height: 36px; margin-bottom: 18px; }
+h3 { font-weight: bold; }
+h4 { font-weight: bold; }
+h4:hover, .active {color:#fff;background:#9fcf67;}
+
+/* LAYOUT */
+div#container {
+	width:800px;
+	clear:both;
+	margin:0 auto;
+	position:relative;
+	/*border:#fff solid 3px;*/
+	/*background: url('../images/container_background.png') no-repeat bottom left;*/
+	overflow:auto;
+}
