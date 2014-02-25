@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="828eca88-ca97-4e51-a25e-b7af4fd07340" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chinese_medicine.html" afterPath="$PROJECT_DIR$/chinese_medicine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.html" afterPath="$PROJECT_DIR$/testimonials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/treatments.html" afterPath="$PROJECT_DIR$/treatments.html" />
     </list>
     <ignored path="breatheinacu.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,16 +32,18 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="33" selection-start="3260" selection-end="3260" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="969">
-              <folding />
+            <state line="36" column="5" selection-start="3025" selection-end="3725" vertical-scroll-proportion="-7.65" vertical-offset="0" max-vertical-offset="765">
+              <folding>
+                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+            <state line="1" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
               <folding />
             </state>
           </provider>
@@ -47,7 +52,7 @@
       <file leaf-file-name="chinese_medicine.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="8" selection-start="4643" selection-end="4643" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
+            <state line="58" column="8" selection-start="4458" selection-end="4458" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -56,7 +61,7 @@
       <file leaf-file-name="faq.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="8" selection-start="6586" selection-end="6586" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
+            <state line="80" column="8" selection-start="6401" selection-end="6401" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
               <folding />
             </state>
           </provider>
@@ -65,16 +70,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="808" selection-end="808" vertical-scroll-proportion="-2.9423077" vertical-offset="0" max-vertical-offset="884">
+            <state line="43" column="8" selection-start="2263" selection-end="2263" vertical-scroll-proportion="-14.057693" vertical-offset="0" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treatments.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="treatments.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/treatments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="8" selection-start="4749" selection-end="4749" vertical-scroll-proportion="-35.76923" vertical-offset="396" max-vertical-offset="1496">
+            <state line="78" column="8" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.8384372" vertical-offset="532" max-vertical-offset="1496">
               <folding />
             </state>
           </provider>
@@ -83,7 +88,7 @@
       <file leaf-file-name="testimonials.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="8" selection-start="6604" selection-end="6604" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
+            <state line="68" column="8" selection-start="6419" selection-end="6419" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
               <folding />
             </state>
           </provider>
@@ -104,13 +109,13 @@
       <list>
         <option value="$PROJECT_DIR$/_footer.liquid" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/treatments.html" />
-        <option value="$PROJECT_DIR$/testimonials.html" />
-        <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/chinese_medicine.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/chinese_medicine.html" />
+        <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/testimonials.html" />
+        <option value="$PROJECT_DIR$/treatments.html" />
       </list>
     </option>
   </component>
@@ -293,51 +298,53 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/treatments.html">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="8" selection-start="4749" selection-end="4749" vertical-scroll-proportion="-35.76923" vertical-offset="396" max-vertical-offset="1496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="8" selection-start="6604" selection-end="6604" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="8" selection-start="6586" selection-end="6586" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="8" selection-start="4643" selection-end="4643" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="808" selection-end="808" vertical-scroll-proportion="-2.9423077" vertical-offset="0" max-vertical-offset="884">
+        <state line="1" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="33" selection-start="3260" selection-end="3260" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="969">
+        <state line="36" column="5" selection-start="3025" selection-end="3725" vertical-scroll-proportion="-7.65" vertical-offset="0" max-vertical-offset="765">
+          <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="8" selection-start="4458" selection-end="4458" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+        <state line="80" column="8" selection-start="6401" selection-end="6401" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="8" selection-start="2263" selection-end="2263" vertical-scroll-proportion="-14.057693" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="8" selection-start="6419" selection-end="6419" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treatments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="8" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.8384372" vertical-offset="532" max-vertical-offset="1496">
           <folding />
         </state>
       </provider>
