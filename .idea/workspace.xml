@@ -29,12 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="5" selection-start="3025" selection-end="3725" vertical-scroll-proportion="-7.65" vertical-offset="0" max-vertical-offset="765">
+            <state line="53" column="8" selection-start="3967" selection-end="3967" vertical-scroll-proportion="0.84770435" vertical-offset="144" max-vertical-offset="1037">
               <folding>
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,8 +52,10 @@
       <file leaf-file-name="chinese_medicine.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="8" selection-start="4458" selection-end="4458" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
-              <folding />
+            <state line="63" column="8" selection-start="4701" selection-end="4701" vertical-scroll-proportion="-33.153847" vertical-offset="209" max-vertical-offset="1241">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +63,10 @@
       <file leaf-file-name="faq.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="8" selection-start="6401" selection-end="6401" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
-              <folding />
+            <state line="85" column="8" selection-start="6644" selection-end="6644" vertical-scroll-proportion="-35.115383" vertical-offset="532" max-vertical-offset="1598">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,17 +74,21 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="8" selection-start="2263" selection-end="2263" vertical-scroll-proportion="-14.057693" vertical-offset="0" max-vertical-offset="884">
-              <folding />
+            <state line="48" column="8" selection-start="2506" selection-end="2506" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="969">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treatments.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="treatments.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/treatments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="8" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.8384372" vertical-offset="532" max-vertical-offset="1496">
-              <folding />
+            <state line="83" column="8" selection-start="3865" selection-end="4807" vertical-scroll-proportion="-31.846153" vertical-offset="583" max-vertical-offset="1581">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +96,10 @@
       <file leaf-file-name="testimonials.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="8" selection-start="6419" selection-end="6419" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
-              <folding />
+            <state line="73" column="8" selection-start="6662" selection-end="6662" vertical-scroll-proportion="-34.46154" vertical-offset="345" max-vertical-offset="1394">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,12 +120,12 @@
         <option value="$PROJECT_DIR$/_footer.liquid" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/chinese_medicine.html" />
-        <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/treatments.html" />
+        <option value="$PROJECT_DIR$/testimonials.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/chinese_medicine.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -305,47 +315,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/treatments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="5" selection-start="3025" selection-end="3725" vertical-scroll-proportion="-7.65" vertical-offset="0" max-vertical-offset="765">
+        <state line="83" column="8" selection-start="3865" selection-end="4807" vertical-scroll-proportion="-31.846153" vertical-offset="583" max-vertical-offset="1581">
           <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="8" selection-start="6662" selection-end="6662" vertical-scroll-proportion="-34.46154" vertical-offset="345" max-vertical-offset="1394">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="8" selection-start="2506" selection-end="2506" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="969">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="8" selection-start="6644" selection-end="6644" vertical-scroll-proportion="-35.115383" vertical-offset="532" max-vertical-offset="1598">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="8" selection-start="4458" selection-end="4458" vertical-scroll-proportion="-35.115383" vertical-offset="73" max-vertical-offset="1156">
-          <folding />
+        <state line="63" column="8" selection-start="4701" selection-end="4701" vertical-scroll-proportion="-33.153847" vertical-offset="209" max-vertical-offset="1241">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="8" selection-start="6401" selection-end="6401" vertical-scroll-proportion="-35.115383" vertical-offset="447" max-vertical-offset="1513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="8" selection-start="2263" selection-end="2263" vertical-scroll-proportion="-14.057693" vertical-offset="0" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="8" selection-start="6419" selection-end="6419" vertical-scroll-proportion="-35.115383" vertical-offset="243" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/treatments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="8" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.8384372" vertical-offset="532" max-vertical-offset="1496">
-          <folding />
+        <state line="53" column="8" selection-start="3967" selection-end="3967" vertical-scroll-proportion="0.84770435" vertical-offset="144" max-vertical-offset="1037">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
