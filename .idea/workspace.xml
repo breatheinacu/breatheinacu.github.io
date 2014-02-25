@@ -2,12 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828eca88-ca97-4e51-a25e-b7af4fd07340" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/about.html" afterPath="$PROJECT_DIR$/_backups/_backup/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/blog.html" afterPath="$PROJECT_DIR$/_backups/_backup/blog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/chinese_medicine.html" afterPath="$PROJECT_DIR$/_backups/_backup/chinese_medicine.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/contact.html" afterPath="$PROJECT_DIR$/_backups/_backup/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/faq.html" afterPath="$PROJECT_DIR$/_backups/_backup/faq.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/background.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/chinese_medicine.jpg" afterPath="$PROJECT_DIR$/_backups/_backup/images/chinese_medicine.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/chinese_medicine.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/chinese_medicine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/container_background.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/container_background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/faq.jpg" afterPath="$PROJECT_DIR$/_backups/_backup/images/faq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/feather.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/feather.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/homepage_image.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/homepage_image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/lexi_hayes_hagenson.jpg" afterPath="$PROJECT_DIR$/_backups/_backup/images/lexi_hayes_hagenson.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/logo.png" afterPath="$PROJECT_DIR$/_backups/_backup/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/images/treatments.jpg" afterPath="$PROJECT_DIR$/_backups/_backup/images/treatments.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/index.html" afterPath="$PROJECT_DIR$/_backups/_backup/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/stylesheets/all.css" afterPath="$PROJECT_DIR$/_backups/_backup/stylesheets/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/stylesheets/base.css" afterPath="$PROJECT_DIR$/_backups/_backup/stylesheets/base.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/stylesheets/content.css" afterPath="$PROJECT_DIR$/_backups/_backup/stylesheets/content.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/stylesheets/footer.css" afterPath="$PROJECT_DIR$/_backups/_backup/stylesheets/footer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/stylesheets/header.css" afterPath="$PROJECT_DIR$/_backups/_backup/stylesheets/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup/treatments.html" afterPath="$PROJECT_DIR$/_backups/_backup/treatments.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/about.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/blog.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/blog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/chinese_medicine.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/chinese_medicine.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/contact.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/faq.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/faq.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/background.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/chinese_medicine.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/chinese_medicine.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/chinese_medicine.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/chinese_medicine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/container_background.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/container_background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/exhale.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/exhale.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/faq.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/faq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/feather.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/feather.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/homepage_image.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/homepage_image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/lexi_hayes_hagenson.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/lexi_hayes_hagenson.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/logo.png" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/images/treatments.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/images/treatments.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/index.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/stylesheets/all.css" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/stylesheets/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/stylesheets/base.css" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/stylesheets/base.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/stylesheets/content.css" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/stylesheets/content.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/stylesheets/footer.css" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/stylesheets/footer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/stylesheets/header.css" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/stylesheets/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_12-2011/treatments.html" afterPath="$PROJECT_DIR$/_backups/_backup_12-2011/treatments.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/about.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/chinese_medicine.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/chinese_medicine.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/faq.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/faq.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/background.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/chinese_medicine.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/chinese_medicine.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/chinese_medicine.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/chinese_medicine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/container_background.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/container_background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/exhale.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/exhale.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/faq.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/faq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/feather.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/feather.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/homepage_image.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/homepage_image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/lexi_hayes_hagenson.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/lexi_hayes_hagenson.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/logo.png" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/images/treatments.jpg" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/images/treatments.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/index.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/stylesheets/all.css" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/stylesheets/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/stylesheets/base.css" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/stylesheets/base.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/stylesheets/content.css" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/stylesheets/content.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/stylesheets/footer.css" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/stylesheets/footer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/stylesheets/header.css" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/stylesheets/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/testimonials.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/testimonials.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_backup_5-2012/treatments.html" afterPath="$PROJECT_DIR$/_backups/_backup_5-2012/treatments.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_footer.liquid" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chinese_medicine.html" afterPath="$PROJECT_DIR$/chinese_medicine.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.html" afterPath="$PROJECT_DIR$/testimonials.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/treatments.html" afterPath="$PROJECT_DIR$/treatments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="breatheinacu.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="24" selection-start="3049" selection-end="3049" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="765">
+            <state line="38" column="7" selection-start="3068" selection-end="3068" vertical-scroll-proportion="0.6821542" vertical-offset="0" max-vertical-offset="947">
               <folding />
             </state>
           </provider>
@@ -41,7 +110,7 @@
       <file leaf-file-name="chinese_medicine.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="2" selection-start="3786" selection-end="3786" vertical-scroll-proportion="-30.73077" vertical-offset="0" max-vertical-offset="952">
+            <state line="46" column="27" selection-start="3786" selection-end="3786" vertical-scroll-proportion="-30.076923" vertical-offset="0" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -50,7 +119,7 @@
       <file leaf-file-name="faq.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="2" selection-start="5729" selection-end="5729" vertical-scroll-proportion="-31.846153" vertical-offset="345" max-vertical-offset="1309">
+            <state line="68" column="27" selection-start="5729" selection-end="5729" vertical-scroll-proportion="-31.192308" vertical-offset="345" max-vertical-offset="1309">
               <folding />
             </state>
           </provider>
@@ -59,25 +128,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="24" selection-start="1585" selection-end="1585" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="680">
+            <state line="31" column="27" selection-start="1588" selection-end="1588" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treatments.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="treatments.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/treatments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="24" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.8384372" vertical-offset="328" max-vertical-offset="1292">
+            <state line="66" column="27" selection-start="3892" selection-end="3892" vertical-scroll-proportion="-30.538462" vertical-offset="328" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_footer.liquid" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_footer.liquid">
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="0" column="0" selection-start="0" selection-end="857" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -86,7 +155,7 @@
       <file leaf-file-name="testimonials.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="24" selection-start="5744" selection-end="5744" vertical-scroll-proportion="-31.192308" vertical-offset="141" max-vertical-offset="1105">
+            <state line="56" column="27" selection-start="5747" selection-end="5747" vertical-scroll-proportion="-31.192308" vertical-offset="141" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -106,18 +175,18 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/_footer.liquid" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/chinese_medicine.html" />
-        <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/treatments.html" />
+        <option value="$PROJECT_DIR$/testimonials.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/chinese_medicine.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="417" />
-    <option name="y" value="635" />
+    <option name="x" value="476" />
+    <option name="y" value="239" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -172,6 +241,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_backups" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -247,12 +323,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="417" y="635" width="1920" height="1080" extended-state="0" />
+    <frame x="476" y="239" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -263,7 +340,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -287,51 +363,51 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_footer.liquid">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="973">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="24" selection-start="3049" selection-end="3049" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="2" selection-start="3786" selection-end="3786" vertical-scroll-proportion="-30.73077" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="2" selection-start="5729" selection-end="5729" vertical-scroll-proportion="-31.846153" vertical-offset="345" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="24" selection-start="1585" selection-end="1585" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="24" selection-start="5744" selection-end="5744" vertical-scroll-proportion="-31.192308" vertical-offset="141" max-vertical-offset="1105">
+        <state line="0" column="0" selection-start="0" selection-end="857" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/treatments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="24" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.8384372" vertical-offset="328" max-vertical-offset="1292">
+        <state line="66" column="27" selection-start="3892" selection-end="3892" vertical-scroll-proportion="-30.538462" vertical-offset="328" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="27" selection-start="5747" selection-end="5747" vertical-scroll-proportion="-31.192308" vertical-offset="141" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="27" selection-start="1588" selection-end="1588" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="27" selection-start="5729" selection-end="5729" vertical-scroll-proportion="-31.192308" vertical-offset="345" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinese_medicine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="27" selection-start="3786" selection-end="3786" vertical-scroll-proportion="-30.076923" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="7" selection-start="3068" selection-end="3068" vertical-scroll-proportion="0.6821542" vertical-offset="0" max-vertical-offset="947">
           <folding />
         </state>
       </provider>
